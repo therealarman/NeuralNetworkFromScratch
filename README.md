@@ -20,4 +20,5 @@ $$\delta_{h_i} = \left(\sum_{k=1}^k w_{h_i, o_k} \times \delta_{O_k} \right) \ti
 Lastly, weights are updated using the following formula:
 
 $$\Delta w_{x_{1}, h_{1}} = \eta\delta_{h_i}y_{x_i}$$
+
 $$new \space w_{x_{1}, h_{1}} = w_{x_{1}, h_{1}}-\Delta w_{x_{1}, h_{1}}$$
